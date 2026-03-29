@@ -49,6 +49,6 @@ We keep a log of past events in the [archive](archive/) folder. This helps new o
 
 ## Related Repos
 
-- [Community](https://github.com/istanbul-digital-nomads/community) — Guidelines and code of conduct
-- [Resources](https://github.com/istanbul-digital-nomads/resources) — Istanbul guides for nomads
-- [Website](https://github.com/istanbul-digital-nomads/website) — Community platform
+- [Community](https://github.com/istanbul-digital-nomads/community) - Guidelines and code of conduct
+- [Resources](https://github.com/istanbul-digital-nomads/resources) - Istanbul guides for nomads
+- [Website](https://github.com/istanbul-digital-nomads/website) - Community platform
