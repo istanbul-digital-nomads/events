@@ -1,3 +1,5 @@
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey)
+
 # Events and Meetups
 
 This repo is where we plan, organize, and document Istanbul Digital Nomads events.
@@ -42,3 +44,11 @@ We keep a log of past events in the [archive](archive/) folder. This helps new o
 - **Keep it simple.** The best events are often just "let's meet at this cafe at 3pm."
 - **Follow up.** After the event, post a short recap in the Telegram group and add it to the archive.
 - **Be inclusive.** Choose venues that are accessible and affordable. Not everyone has the same budget.
+
+---
+
+## Related Repos
+
+- [Community](https://github.com/istanbul-digital-nomads/community) — Guidelines and code of conduct
+- [Resources](https://github.com/istanbul-digital-nomads/resources) — Istanbul guides for nomads
+- [Website](https://github.com/istanbul-digital-nomads/website) — Community platform

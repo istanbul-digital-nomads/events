@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Telegram Group
+    url: https://t.me/istanbul_digital_nomads
+    about: For quick questions or to RSVP, join our Telegram group.
+  - name: Community Guidelines
+    url: https://github.com/istanbul-digital-nomads/community
+    about: Read our community guidelines before organizing an event.
